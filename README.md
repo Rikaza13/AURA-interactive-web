@@ -36,15 +36,24 @@ Sections
 6.Footer: Company details, quick links, and social media integration.
 
 Setup Instructions
+
 1.Download or clone the project repository.
+
 2.Ensure all assets (images, CSS, JavaScript) are correctly linked and stored in the /assets/ directory.
+
 3.Use a local server (like VS Code's Live Server or XAMPP) to preview the website.
 
+
 Technologies Used
+
 1.HTML: Structure and content.
+
 2.CSS: Styling, responsiveness, and aesthetics.
+
 3.JavaScript: Interactivity and functionality.
+
 4.Google Fonts: Urbanist font integration.
+
 5.Ionicons: Icons for user actions and navigation.
 
 
