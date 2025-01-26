@@ -6,6 +6,7 @@ Introduction
 
 Welcome to AURA! This website is dedicated to showcasing our exclusive range of skincare products crafted with clean, non-toxic ingredients designed for everyone. Whether you're looking for our latest collections, bestsellers, or special offers, AURA has you covered.
 
+
 Features
 
 1.Responsive Design: Optimized for a seamless experience across all devices.
@@ -19,6 +20,7 @@ Features
 5.User Engagement: Subscribe to newsletters and stay updated with new launches and collections.
 
 6.Secure Shopping: Compatible with all major payment methods for a safe shopping experience.
+
 
 
 Sections
@@ -35,6 +37,8 @@ Sections
 
 6.Footer: Company details, quick links, and social media integration.
 
+
+
 Setup Instructions
 
 1.Download or clone the project repository.
@@ -42,6 +46,8 @@ Setup Instructions
 2.Ensure all assets (images, CSS, JavaScript) are correctly linked and stored in the /assets/ directory.
 
 3.Use a local server (like VS Code's Live Server or XAMPP) to preview the website.
+
+
 
 
 Technologies Used
