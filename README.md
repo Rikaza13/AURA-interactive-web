@@ -9,6 +9,7 @@ Welcome to AURA! This website is dedicated to showcasing our exclusive range of 
 
 Features
 
+
 1.Responsive Design: Optimized for a seamless experience across all devices.
 
 2.Product Showcase: View featured collections, offers, and bestsellers.
@@ -23,7 +24,11 @@ Features
 
 
 
+
+
 Sections
+
+
 
 1.Hero Section: Highlights our brand's mission and key product offerings with stunning visuals.
 
@@ -41,6 +46,8 @@ Sections
 
 Setup Instructions
 
+
+
 1.Download or clone the project repository.
 
 2.Ensure all assets (images, CSS, JavaScript) are correctly linked and stored in the /assets/ directory.
@@ -52,6 +59,7 @@ Setup Instructions
 
 Technologies Used
 
+
 1.HTML: Structure and content.
 
 2.CSS: Styling, responsiveness, and aesthetics.
@@ -61,6 +69,7 @@ Technologies Used
 4.Google Fonts: Urbanist font integration.
 
 5.Ionicons: Icons for user actions and navigation.
+
 
 
 
