@@ -73,6 +73,39 @@ Technologies Used
 
 
 
-CLICK TO VIEW THE LIVE WEBSITE : http://127.0.0.1:5500/index.html
+
+
+ ⚙️ Setup Instructions
+
+ 1. How to Import the Database
+
+1. Start **XAMPP** or **WAMP** and make sure **MySQL** is running.
+2. Open **phpMyAdmin** in your browser:  
+   `http://localhost/phpmyadmin`
+3. Click **"New"**, then enter a database name (e.g., `your_project_db`) and click **Create**.
+4. Select the new database, then go to the **Import** tab.
+5. Click **Choose File** and select the `database.sql` file from this project.
+6. Click **Go** to import the database structure and data.
+
+---
+
+ 2. How to Run the Project Using XAMPP/WAMP
+
+1. Start **Apache** and **MySQL** from the XAMPP/WAMP control panel.
+2. Copy the entire project folder (e.g., `project/`) into:
+   - `C:\xampp\htdocs\` (for XAMPP)  
+   - or `C:\wamp\www\` (for WAMP)
+3. Open your browser and visit:  
+   `http://localhost/project/`  
+   *(Replace `project` with your folder name if different.)*
+
+---
+
+
+
+- Make sure your `includes/db.php` file contains the correct database connection settings:
+  ```php
+  $conn = new mysqli('localhost', 'root', '', 'your_project_db');
+
 
 
