@@ -1410,3 +1410,66 @@
     .offer .container { gap: 120px; }
   
   }
+
+ /* ---------------------------------- */
+/* LOGIN & SIGNUP PAGE - AURA THEME   */
+/* ---------------------------------- */
+
+.login-signup-page {
+  background-color: var(--cultured-1);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 15px;
+}
+
+.form-section {
+  background-color: var(--white);
+  padding: 50px 40px;
+  border-radius: var(--radius-3);
+  box-shadow: var(--shadow-1);
+  max-width: 450px;
+  width: 100%;
+  text-align: center;
+}
+
+.form-section .section-title {
+  font-size: var(--fs-2);
+  color: var(--black);
+  margin-bottom: 30px;
+}
+
+.form-card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.input-wrapper input {
+  background-color: var(--cultured-2);
+  border: 1px solid var(--hoockers-green_20);
+  border-radius: var(--radius-3);
+  padding: 14px 18px;
+  font-size: var(--fs-7);
+  color: var(--black);
+  transition: var(--transition-1);
+}
+
+.input-wrapper input:focus {
+  border-color: var(--hoockers-green);
+  outline: none;
+}
+
+.btn-primary {
+  width: 100%;
+  padding: 14px 0;
+  font-size: var(--fs-6);
+  font-weight: var(--fw-600);
+  border-radius: var(--radius-3);
+  transition: var(--transition-1);
+}
